@@ -55,5 +55,14 @@ All objects are provided in the following formats:
 7. Carefully bend the rings open and insert the punched paper.
 8. Insert the second cover (this will be the **front** cover). The paper should now be securely held in place.
 
+## Attribution
 
+YAFOSAN is shared in the spirit of open source and making.
+If this project is useful to you, a shout-out or link back to the original repo is appreciated, but never required.
 
+---
+
+## License
+
+This project is licensed under the **MIT License**.
+See the [LICENSE.md](LICENSE.md) file for details.
